@@ -2,18 +2,18 @@
 
 ### Plant Care System
 
-*A desktop-based graphical user interface application built with Java Swing for managing and monitoring plant health, water schedules, and care details.*
+*A comprehensive desktop graphical user interface application built for managing plant health, watering frequencies, and care schedules.*
 
-![Java](https://img.shields.io/badge/Language-Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Framework](https://img.shields.io/badge/Framework-Java_Swing-blue?style=flat)
-![License](https://img.shields.io/badge/License-MIT-brightgreen?style=flat)
-![Status](https://img.shields.io/badge/Status-Complete-39d353?style=flat)
+![Java](https://img.shields.io/badge/Language-Java-ED8B00?style=flat&logo=java&logoColor=white)[cite: 4]
+![GUI Framework](https://img.shields.io/badge/Framework-Java_Swing-blue?style=flat)[cite: 3, 4]
+![License](https://img.shields.io/badge/License-MIT-brightgreen?style=flat)[cite: 4]
+![Status](https://img.shields.io/badge/Status-Complete-39d353?style=flat)[cite: 4]
 
 </div>
 
 ---
 
-Built using native Java Swing and AWT libraries to provide a clean, lightweight, and interactive desktop experience for tracking and organizing plant care routines.
+Built using native Java Swing libraries (`javax.swing`, `java.awt`) and an `ArrayList` data structure to provide a lightweight, responsive desktop tool for plant lovers and caretakers.
 
 ---
 
@@ -21,7 +21,6 @@ Built using native Java Swing and AWT libraries to provide a clean, lightweight,
 
 ```text
 JAVA/
-│
-├── PlantCareSystem.java       # Main GUI application code, event handlers, and Plant model
-├── README.md                  # Main Repository Documentation (This file)
-└── LICENSE                    # MIT Open Source License
+├── PlantCareSystem.java      # Main application containing GUI frames, dialogs, and the Plant model class
+├── README.md                 # Comprehensive project documentation
+└── LICENSE                   # MIT Open Source License
